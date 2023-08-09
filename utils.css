@@ -1,0 +1,54 @@
+h1 {
+    color: white;
+    text-align: center;
+    margin: 16px 4px;
+    font-family: 'Montserrat', 'Ubuntu', sans-serif;
+  }
+  
+  .box {
+    margin: 8px 3px;
+    padding: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat', 'Ubuntu', sans-serif;
+  }
+  
+  .input {
+    margin: 7px 1px;
+    padding: 2px 2px;
+    font-size: 13px;
+    background-color: #d0dcdc;
+  }
+  
+  .btn {
+    border: 0px;
+    border-radius: 9px;
+    font-size: 23px;
+    background-color: #b1afaf;
+    color: white;
+    padding:8px 10px;
+    margin:2px 2px;
+    cursor: pointer;
+  }
+  
+  .btn-outline-info {
+    color: #2e87e5;
+    background-color: #a0c1cf;
+  }
+  
+  .equal {
+    background-color: #9db5fb;
+    color: black
+  }
+  
+  .black {
+    background-color: black;
+    height: 50%;
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 34px 401px;
+    border-radius: 3px;
+  }
